@@ -830,3 +830,4 @@
 0.0.0.0 ugc.oculuscdn.com
 0.0.0.0 scontent-frt3-1.xx.fbcdn.net
 0.0.0.0 securecdn.oculus.com
+0.0.0.0 mqtt-mini.facebook.com
