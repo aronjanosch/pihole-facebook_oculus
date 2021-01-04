@@ -823,3 +823,10 @@
 0.0.0.0 www.facebook-hardware.com
 0.0.0.0 www.facebook.net
 0.0.0.0 www.crashlytics.com
+0.0.0.0 graph.oculus.com
+0.0.0.0 scontent.oculuscdn.com
+0.0.0.0 scontent-frx5-1.xx.fbcdn.net
+0.0.0.0 video-frt3-1.xx.fbcdn.net
+0.0.0.0 ugc.oculuscdn.com
+0.0.0.0 scontent-frt3-1.xx.fbcdn.net
+0.0.0.0 securecdn.oculus.com
