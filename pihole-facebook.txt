@@ -818,3 +818,8 @@
 0.0.0.0 facebook-hardware.com
 0.0.0.0 facebook.net
 0.0.0.0 crashlytics.com
+0.0.0.0 www.oculus.com
+0.0.0.0 www.oculuscdn.com
+0.0.0.0 www.facebook-hardware.com
+0.0.0.0 www.facebook.net
+0.0.0.0 www.crashlytics.com
